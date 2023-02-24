@@ -12,5 +12,9 @@ first.py, first01.py , first02.py, first03.py
       - Processing Command line arguments, Straightline Program,Data Parameterization,  Behavior Parametrization
 
 
-Bubble.go, Bubble1.go, Bubble2.go , Bubble3.go
-      - Processing Command line arguments, Straightline Program,Data Parameterization,  Behavior Parametrization
+Bubble.go, Bubble1.go, Bubble2.go, Bubble3.go
+      - The Straightline Program, Data Parameterization, Type Parametrization, Behavior Parametrization
+
+
+Bubble.vb, Bubble1.vb, Bubble2.vb, Bubble3.vb
+      - The Straightline Program, Data Parameterization, Type Parametrization, Behavior Parametrization
